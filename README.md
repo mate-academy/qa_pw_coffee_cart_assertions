@@ -1,1 +1,1 @@
-# qa_pw_coffee_cart_assertions
+Playwright: Practice task for Coffee Cart application testing. 
